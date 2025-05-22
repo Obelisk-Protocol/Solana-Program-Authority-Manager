@@ -5,7 +5,7 @@
 
 This script provides a straightforward way to set or change the upgrade authority of a Solana program using the Solana Command Line Interface (CLI). It is particularly useful for delegating upgrade authority to a Program Derived Address (PDA) or another keypair where the new authority cannot or will not sign the authority change transaction itself, leveraging the crucial `--skip-new-upgrade-authority-signer-check` flag.
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-obelisk-discord-link) <!-- TODO: Replace with actual Discord link -->
+[![Discord](https://img.shields.io/badge/Discord-Join%20Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uMRnMbMtgQ) <!-- TODO: Replace with actual Discord link -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/ObeliskProtocol?style=for-the-badge&logo=twitter&label=Follow%20on%20X)](https://twitter.com/ObeliskProtocol) <!-- TODO: Replace with actual X/Twitter profile if different -->
 
 ---
