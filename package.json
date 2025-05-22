@@ -1,0 +1,26 @@
+{
+  "name": "solana-set-authority-cli",
+  "version": "1.0.0",
+  "description": "A CLI script to set the upgrade authority of a Solana program.",
+  "main": "scripts/set-program-authority.js",
+  "scripts": {
+    "start": "ts-node scripts/set-program-authority.ts",
+    "build": "tsc",
+    "set-authority": "ts-node scripts/set-program-authority.ts"
+  },
+  "keywords": [
+    "solana",
+    "blockchain",
+    "cli",
+    "program",
+    "upgrade-authority"
+  ],
+  "author": "Your Name or Org",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^4.8.0"
+  },
+  "dependencies": {}
+} 
